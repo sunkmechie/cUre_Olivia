@@ -1,8 +1,8 @@
 
-# 🧠 Surya's Portfolio Website
+# Website 01 - Harsha Paga - cURe Physio & Olivia Dental
 
 Hi there! 👋  
-This is the my personal portfolio, I am a passionate Mechanical Engineering undergrad, poet, and aspiring prosthetics and robotics innovator from India 🇮🇳.  
+
 
 
 ## 🚀 Live Preview
